@@ -1,0 +1,3 @@
+﻿  Sets_as_vectors.cpp
+C:\Users\Damian\source\repos\Sets_as_vectors\Sets_as_vectors\Sets_as_vectors.cpp(129,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sets_as_vectors.vcxproj -> C:\Users\Damian\source\repos\Sets_as_vectors\x64\Debug\Sets_as_vectors.exe
